@@ -1,0 +1,22 @@
+.button{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3rem;
+    align-items: center;
+}
+
+.button button{
+    height: 2rem;
+    background: #8db61c;
+    border-radius: 1rem;
+    color: #222;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7rem;
+    font-size: 1.2rem;
+    letter-spacing: .1rem;
+    border: none;
+    padding: 0.5rem 0;
+}

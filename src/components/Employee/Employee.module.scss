@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    width: 300px;
+    color: #617d98;
+}
+
+.photo img{
+    box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+    height: 75px;
+    object-fit: cover;
+    width: 75px;
+    border-radius: 50%;
+}
+
+.heading h4{
+    margin: 0rem;
+    padding: 0rem;
+    color: #222;
+}
